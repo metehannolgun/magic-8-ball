@@ -1,0 +1,16 @@
+{
+  "name": "magic-8-ball-web",
+  "version": "1.0.0",
+  "description": "Magic 8 Ball Web App",
+  "main": "src/scripts/app.js",
+  "scripts": {
+    "start": "live-server src --port=8000",
+    "build": "echo 'Build step not defined'"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  },
+  "keywords": []
+}
